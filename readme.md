@@ -24,8 +24,15 @@ Note: for running you might need to give permission for the scripts, on linux us
 3. Start the application:  
     in a terminal run the following
     ```./run_server.sh
+    
     # to test out a correct post request (code 200)
+    
     ./run_correct.sh
+    
     # to test an incorrect post request (code 400)
+    
     ./run_incorrect.sh
     ```
+
+https://github.com/user-attachments/assets/27776376-bb4c-47ca-9ceb-ce76191fa141
+
