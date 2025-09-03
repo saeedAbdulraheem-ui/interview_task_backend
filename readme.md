@@ -20,7 +20,7 @@ This is a simple application for POST request in the backend that uses typescrip
     npx tsc --init
     ```
 
-note: for running you might need to give permission for the scripts, on linux use the command chmod +rwx "script_name"
+Note: for running you might need to give permission for the scripts, on linux use the command chmod +rwx "script_name"
 3. Start the application:  
     in a terminal run the following
     ```./run_server.sh
