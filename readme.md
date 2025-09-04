@@ -38,6 +38,17 @@ Note: for running you might need to give permission for the scripts, on linux us
     
     ./run_incorrect.sh
     ```
+### Docker option
+if you prefer to use docker to run:
+navigate to the docker directory
+```cd docker```
+run the following:
+#### Build the image
+````docker build -t interview_task_backend .````
+
+#### Run the container
+````docker run -p 3000:3000 interview_task_backend````
+
 
 https://github.com/user-attachments/assets/27776376-bb4c-47ca-9ceb-ce76191fa141
 
