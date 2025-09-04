@@ -10,9 +10,9 @@ This is a simple application for POST request in the backend that uses typescrip
 - Task review and feedback
 
 ## Scripts
-For development use npm run dev
+For development use ```npm run dev```
 
-For production ready use npm run build and npm run start
+For production ready use ```npm run build``` and ```npm run start```
 
 ## Getting Started
 
