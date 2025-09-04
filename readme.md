@@ -9,6 +9,11 @@ This is a simple application for POST request in the backend that uses typescrip
 - a mock generator
 - Task review and feedback
 
+## Scripts
+For development use npm run dev
+
+For production ready use npm run build and npm run start
+
 ## Getting Started
 
 1. clone the repository.
