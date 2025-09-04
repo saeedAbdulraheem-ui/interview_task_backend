@@ -27,8 +27,10 @@ For production ready use ```npm run build``` and ```npm run start```
 
 Note: for running you might need to give permission for the scripts, on linux use the command chmod +rwx "script_name"
 3. Start the application:  
-    in a terminal run the following
-    ```npm start
+    in a terminal run the following:
+    
+    ```
+    npm start
     
     # to test out a correct post request (code 200)
     
